@@ -14,10 +14,10 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 - Express.js
 
 ### Bases de datos:
-- style="background-color: #4EA94A; padding: 3px;" MongoDB
-- style="background-color: #4479A0; padding: 3px;" MySQL
-- style="background-color: #4EA94A; padding: 3px;" PostgreSQL
-- style="background-color: #31638B; padding: 3px;" SQL
+- <span style="background-color: #4EA94A; padding: 3px;"> MongoDB</span>
+- <span style="background-color: #4479A0; padding: 3px;"> MySQL</span>
+- <span style="background-color: #4EA94A; padding: 3px;"> PostgreSQL</span>
+- <span style="background-color: #31638B; padding: 3px;"> SQL</span>
 
 ### Frontend:
 - HTML5
