@@ -19,6 +19,14 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 - <span style="background-color: #4EA94A; padding: 3px;"> PostgreSQL</span>
 - <span style="background-color: #31638B; padding: 3px;"> SQL</span>
 
+
+### Lenguajes y Tecnologías:
+- <span style="background-color: #f0f0f0; padding: 3px;">JavaScript</span>
+- <span style="background-color: #f0f0f0; padding: 3px;">Node.js</span>
+- <span style="background-color: #f0f0f0; padding: 3px;">React</span>
+- <span style="background-color: #f0f0f0; padding: 3px;">Redux</span>
+- <span style="background-color: #f0f0f0; padding: 3px;">Express.js</span>
+
 ### Frontend:
 - HTML5
 - CSS3
