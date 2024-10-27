@@ -2,7 +2,7 @@
 
 ## About me
 I am a junior web developer, focused on working with the MERN stack. I have worked on project both on the Front and Back end, being the front end the part that interests me the most at the moment. Teamwork has been the scope most of the time, always relying on Git and agile methodologies, although I have also developed individual projects. 
-
+---
 ## Technical Skills
 
 ### LLanguages and Technologies:
@@ -15,17 +15,11 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 
 ### Bases de datos:
 - <span style="background-color: #4EA94A; padding: 3px;"> MongoDB</span>
+-![Static Badge](https://img.shields.io/badge/MongoDB-%234EA94A)
 - <span style="background-color: #4479A0; padding: 3px;"> MySQL</span>
 - <span style="background-color: #4EA94A; padding: 3px;"> PostgreSQL</span>
 - <span style="background-color: #31638B; padding: 3px;"> SQL</span>
 
-
-### Lenguajes y Tecnologías:
-- <span style="background-color: #f0f0f0; padding: 3px;">JavaScript</span>
-- <span style="background-color: #f0f0f0; padding: 3px;">Node.js</span>
-- <span style="background-color: #f0f0f0; padding: 3px;">React</span>
-- <span style="background-color: #f0f0f0; padding: 3px;">Redux</span>
-- <span style="background-color: #f0f0f0; padding: 3px;">Express.js</span>
 
 ### Frontend:
 - HTML5
@@ -40,6 +34,7 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 - Agile methodologies
 
 
+---
 
 ## Experience
 
@@ -48,7 +43,7 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 -  Realization of authoring tool for creation and editing of training course content.
 - Nextjs, Tailwind and Redux Toolkit project setup.
 - Creation of APIRest and integration with non-relational (MongoDB) and relational (PostgreSQL) databases.
-
+---
 ## Education
 
 - **Bootcamp Full Stack Web Developer** – Codespace Academy (2023-2024)  
@@ -56,7 +51,7 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 - **Bachelor's Degree in Political Science and Administration** - Granada's University (06/12)
 - **Master Teacher Secondary Education - Speciality History and Geography** - Universidad de Malaga (14/15)
 
-
+---
 ## Contacto
 - **Email**: jamarinweb@gmail.com
 - **GitHub**: [[github.com/Ellisonda](https://github.com/Ellisonda)](https://github.com/Ellisonda)
