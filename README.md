@@ -1,16 +1,56 @@
-## Hi there 👋
+# Javier Marín Almagro - Fullstack Web Developer
 
-<!--
-**Ellisonda/Ellisonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a junior web developer, focused on working with the MERN stack. I have worked on project both on the Front and Back end, being the front end the part that interests me the most at the moment. Teamwork has been the scope most of the time, always relying on Git and agile methodologies, although I have also developed individual projects. 
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LLanguages and Technologies:
+- JavaScript
+- Node.js
+- React
+- Nextjs
+- Redux & ReduxToolkit
+- Express.js
+
+### Bases de datos:
+- MongoDB
+- MySQL
+- PostgreSQL
+- SQL
+
+### Frontend:
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind
+
+### Otros:
+- API REST
+- Git y GitHub
+- Authentication system
+- Agile methodologies
+
+
+
+## Experience
+
+### Grupo Vértice - Full Stack Web Developer
+**October 2024 - November 2024**
+-  Realization of authoring tool for creation and editing of training course content.
+- Nextjs, Tailwind and Redux Toolkit project setup.
+- Creation of APIRest and integration with non-relational (MongoDB) and relational (PostgreSQL) databases.
+
+## Education
+
+- **Bootcamp Full Stack Web Developer** – Codespace Academy (2023-2024)  
+  Tecnologies: Node.js, React, Express, MongoDB, MySQL.
+- **Bachelor's Degree in Political Science and Administration** - Granada's University (06/12)
+- **Master Teacher Secondary Education - Speciality History and Geography** - Universidad de Malaga (14/15)
+
+
+## Contacto
+- **Email**: jamarinweb@gmail.com
+- **GitHub**: [[github.com/Ellisonda](https://github.com/Ellisonda)](https://github.com/Ellisonda)
+- **LinkedIn**: [Javier Marín Almagro]((https://www.linkedin.com/in/javier-mar%C3%ADn-almagro/))
+
