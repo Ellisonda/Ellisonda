@@ -14,10 +14,10 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 - Express.js
 
 ### Bases de datos:
-- MongoDB
-- MySQL
-- PostgreSQL
-- SQL
+- style="background-color: #4EA94A; padding: 3px;" MongoDB
+- style="background-color: #4479A0; padding: 3px;" MySQL
+- style="background-color: #4EA94A; padding: 3px;" PostgreSQL
+- style="background-color: #31638B; padding: 3px;" SQL
 
 ### Frontend:
 - HTML5
@@ -52,5 +52,5 @@ I am a junior web developer, focused on working with the MERN stack. I have work
 ## Contacto
 - **Email**: jamarinweb@gmail.com
 - **GitHub**: [[github.com/Ellisonda](https://github.com/Ellisonda)](https://github.com/Ellisonda)
-- **LinkedIn**: [Javier Marín Almagro]((https://www.linkedin.com/in/javier-mar%C3%ADn-almagro/))
+- **LinkedIn**: [Javier Marín Almagro](https://www.linkedin.com/in/javier-mar%C3%ADn-almagro/)
 
